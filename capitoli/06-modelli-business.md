@@ -46,6 +46,8 @@ Qui l'azienda paga al recruiter una percentuale sulla tua RAL (di solito tra il 
 | **Mentoring come leva** | Offrono webinar o corsi gratis per metterti nel database. | Non è community, è prospezione commerciale per "coltivarti" e venderti. |
 | **Personal brand etico** | Si vendono come "recruiter umani" sui social. | Usano il tuo fallimento in un'azienda tossica per venderti altro mentoring per "diventare più forte". |
 
+* L'ultima variante (Personal brand etico) può manifestarsi anche indipendentemente da Finders fee o RaaS, ad esempio in coach o mentori autonomi. La includiamo qui perché spesso chi pratica il doppio binario o il mentoring come leva poi si reinventa come 'recruiter umano' per continuare a spremere gli stessi candidati.
+
 > **Tip #62 – Il test del mentoring ritorsivo**
 > Un vero mentore ti aiuta a non cadere. Se il recruiter ti piazza in un posto tossico e poi ti dice: «Non hai retto perché non eri pronto, paga altro mentoring con me per adattarti», scappa. È un parassita che monetizza la tua fragilità.
 
