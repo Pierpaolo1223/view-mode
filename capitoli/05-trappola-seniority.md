@@ -82,4 +82,3 @@ In un'azienda così, non puoi essere senior. Puoi solo abbassare la testa, comba
 > Fai una domanda: «Qual è stata l’ultima volta che un ingegnere ha detto ‘no’ a una richiesta — del CEO, del cliente o del PM — e quel ‘no’ è stato accolto?». Se dicono «qui siamo tutti allineati» o «non diciamo no, troviamo soluzioni», scappa. Quell'azienda ha solo esecutori con un titolo più lungo.
 
 **Ricorda:** Il trucchetto della seniority non è imparare a sembrare senior. È capire che la seniority non te la dà l’azienda, te la costruisci tu con ogni «no» detto e ogni problema ambiguo risolto. Una volta che ce l’hai, smetti di chiedere il permesso di usarla: portatela dietro e usala, anche se non te la riconoscono in busta paga.
-```

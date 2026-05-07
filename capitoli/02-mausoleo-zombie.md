@@ -32,4 +32,3 @@ In quell'ufficio che puzzava di morto, l'unica cosa viva era la fantasia contabi
 Se sulla tua busta paga compare ogni sei mesi un nome di azienda diverso pur stando seduto alla stessa scrivania con lo stesso PC che non si accende, non sei in una «realtà dinamica»: sei finito in una scatola vuota. L’azienda sta facendo **load balancing** dei propri debiti sulla tua pelle.
 
 **Ricorda:** un datore di lavoro che spende più in commercialisti creativi che in hardware per i dev ha già deciso che il prodotto sei tu, non il codice che scrivi.
-```

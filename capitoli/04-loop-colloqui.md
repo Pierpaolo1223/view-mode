@@ -202,4 +202,3 @@ Un amico garantisce per te, l'azienda risponde con il silenzio totale.
 
 > **Tip #60 – Il referral non è un contratto**
 > Se l'azienda non rispetta nemmeno chi mette la faccia per te dall'interno, immagina come rispetterà te una volta assunto. Il loro silenzio è la risposta definitiva.
-```

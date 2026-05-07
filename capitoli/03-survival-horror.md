@@ -160,4 +160,3 @@ Realizzare che la follia gerarchica aveva raggiunto il livello root. Paragonare 
 **Tip #8 – Il verdetto dell’incompetente**  
 Se ti dicono che vali «meno di un junior» dopo che hai distrutto i loro errori architettonici, prendilo come una certificazione d’eccellenza: il tuo sapere li spaventa.  
 **Ricorda:** il licenziamento per «poca produzione» in un’azienda che non sa far partire il software è la tua release note verso la libertà.
-```
