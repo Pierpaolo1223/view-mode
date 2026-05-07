@@ -35,7 +35,7 @@ Qui l'azienda paga al recruiter una percentuale sulla tua RAL (di solito tra il 
 *   **L'incentivo sbagliato:** il recruiter guadagna se firmi, non se resterai a lungo o se sarai felice. Anzi, se te ne vai dopo pochi mesi, lui guadagna un'altra fee rifacendo la selezione.
 *   **RaaS (Recruiting as a Service):** vieni trattato come un "ticket" in un abbonamento mensile. Sei la benzina di una macchina che deve girare sempre: se la casella viene riempita, l'abbonamento è salvo.
 
-### Le varianti più subdole del Finders fee
+### Le varianti più subdole del Finders fee o del RaaS
 
 | Variante | Come funziona | Perché è pericolosa |
 | :--- | :--- | :--- |
