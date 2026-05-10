@@ -28,7 +28,7 @@ I termini che seguono sono utilizzati in questo libro in chiave metaforica. Per 
 *   **Definizione tecnica:** Privilegi che permettono di modificare un file, una directory o un sistema.
 *   **Nel libro:** La capacità di agire sulla propria carriera e sulla propria dignità professionale. Non si ottengono per concessione di un manager o di un’azienda. Si prendono: con un “no” detto al momento giusto, con un confine difeso, con una scelta che mette se stessi prima della paura. Costituiscono il controaltare di VIEW MODE e il tema centrale del libro.
 
-### Debug / Debbugare
+### Debug / Debuggare
 *   **Definizione tecnica:** Processo di analisi di un sistema per identificare e correggere errori (bug).
 *   **Nel libro:** L’atto di osservare criticamente il mondo del lavoro per capire cosa non funziona. “Questo libro è un debug collettivo” significa che non racconta una storia individuale, ma offre strumenti per analizzare un sistema malato. Debuggare la propria carriera è il primo passo per smettere di subirla.
 
@@ -102,7 +102,7 @@ Ogni riferimento a persone esistenti, aziende reali o recruiter in carne e ossa 
 
 Se leggendo queste pagine avvertite un fastidioso bruciore di stomaco, riconoscete la vostra scrivania nella descrizione di un “Mausoleo Zombie” o vi sentite chiamati in causa dalle gesta del Sommelier della Fuffa, sappiate che il problema non è la mia cronaca, ma il vostro sistema operativo aziendale.
 
-Questo libro è un’opera di satira basata su fatti talmente assurdi da sembrare inventati, ma che ogni ingegnere ha dovuto debbugare almeno una volta tra una call su Teams e un caffè imbevibile in un ufficio open-space.
+Questo libro è un’opera di satira basata su fatti talmente assurdi da sembrare inventati, ma che ogni ingegnere ha dovuto debuggare almeno una volta tra una call su Teams e un caffè imbevibile in un ufficio open-space.
 
 Nessun recruiter è stato maltrattato durante la stesura di questo libro (sebbene la tentazione di lanciargli un’eccezione non gestita sia stata forte).
 

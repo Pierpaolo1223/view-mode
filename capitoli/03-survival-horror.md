@@ -82,7 +82,7 @@ Se la manager usa lo stato civile per giustificare le lacune della trasferta, la
 
 ### Il debugger fantasma (Exception: Application Not Found)
 
-Peccato che, aprendo il laptop, il sistema abbia lanciato l’ultimo insulto: l’applicativo non partiva. Non era un bug di logica, era un collasso strutturale: il codice sulla loro macchina era un ammasso di dipendenze rotte. Il debugger non aveva nulla da debbugare perché non c’era nulla che girasse. Mi avevano trascinato fin lì per «fare squadra», ma non sapevano configurare nemmeno un ambiente di sviluppo che superasse la fase di init.
+Peccato che, aprendo il laptop, il sistema abbia lanciato l’ultimo insulto: l’applicativo non partiva. Non era un bug di logica, era un collasso strutturale: il codice sulla loro macchina era un ammasso di dipendenze rotte. Il debugger non aveva nulla da debuggare perché non c’era nulla che girasse. Mi avevano trascinato fin lì per «fare squadra», ma non sapevano configurare nemmeno un ambiente di sviluppo che superasse la fase di init.
 
 **Momento mistico**  
 Realizzare che la «trasferta di eccellenza» era un loop infinito di nulla. Sacrificare igiene e dignità per fare da spettatore al crash di un software che viveva solo nelle slide di Monarchia.
