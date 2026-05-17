@@ -14,7 +14,7 @@ Io, il collaboratore esterno, quello della «gavetta» e dei «sacrifici», pass
 
 Eppure, secondo la logica del loro «sistema operativo», la mia competenza tecnica e il mio supporto al team non valevano quanto la mia presenza fisica alla macchinetta del caffè. Dire di no a quella trasferta inutile non era un atto di pigrizia, era un atto di coerenza: se sono un collaboratore esterno che deve «imparare», perché sto passando la giornata a insegnare ai vostri dipendenti come si lavora?
 
-Ho risposto di no. Con la fermezza di un **sudo rm -rf**. Quel «no» è stato il mio primo **breakpoint** nel codice della loro pazienza. Un errore di sistema che non avrebbero mai debbugato, ma che avrebbero semplicemente deciso di ignorare fino alla scadenza naturale dei sei mesi.
+Ho risposto di no. Con la fermezza di un **sudo rm -rf**. Quel «no» è stato il mio primo **breakpoint** nel codice della loro pazienza. Un errore di sistema che non avrebbero mai debuggato, ma che avrebbero semplicemente deciso di ignorare fino alla scadenza naturale dei sei mesi.
 
 Mentre l’estate avanzava, l’azienda ha provato l’ultima mossa disperata: sbattermi in consulenza esterna ad agosto, cercando di vendere le mie competenze appena «rinfrescate» al miglior offerente, senza però accennare minimamente a un riadeguamento del contratto o della RAL.
 
