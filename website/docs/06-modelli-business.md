@@ -81,7 +81,7 @@ Il modello di business determina come sarai trattato:
 *   Nel **RaaS (Recruiting as a Service)**, sei un «ticket» in un abbonamento mensile: l'agenzia deve riempire le caselle per giustificare il canone pagato dal cliente. Sei considerato la benzina di una macchina che deve girare sempre. 
 Se ti dimetti perché l'ambiente è tossico, diventi solo un nuovo ticket da riaprire per continuare a fatturare il servizio.
 
-### Momento mistico #73
+### Momento mistico #7
 Capire il modello di business è capire il tuo ruolo nel sistema. Se sai come l’azienda guadagna da te, sai anche cosa può permetterti di diventare. E se quello che possono permetterti di diventare non è quello che vuoi essere, hai già la risposta.
 
 ```

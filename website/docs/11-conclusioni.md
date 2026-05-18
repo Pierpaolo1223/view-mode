@@ -11,7 +11,7 @@ Ora arriva il momento della decisione. Non è un manuale di self-help, ma un bil
 
 *   **Il sistema non è rotto per caso: è rotto di proposito.** I parassiti esistono perché il sistema li premia. Le Feature Factory e le Body Rental esistono perché qualcuno preferisce il profitto di breve termine alla dignità di lungo periodo. Non è un bug, è una feature progettata per chi non vuole usare l'estintore.
 *   **La dignità non è in "sola lettura".** Ti hanno fatto credere di essere uno spettatore pagato poco per guardare l'incendio. Ti hanno detto che il "no" è permalosità. Ma la dignità è una cosa che ti costruisci da solo difendendo i tuoi confini.
-*   **Il libro di ricette non esiste.** Nessun use case studiato a memoria ti renderà un Architect. L'architettura è una scelta quotidiana basata sul contesto e sulle persone, non un pattern da applicare ciecamente.
+*   **Il libro di ricette non esiste.** Nessun use case studiato a memoria ti renderà un Dev advocate serio. L'architettura è una scelta quotidiana basata sul contesto e sulle persone, non un pattern da applicare ciecamente.
 
 ---
 

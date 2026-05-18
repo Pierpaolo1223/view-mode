@@ -54,19 +54,23 @@ Esiste davvero, anche se sembra una leggenda metropolitana. Ha studiato il tuo p
 ### 🏢 Le Feature Factory (Lo specchio del Sommelier)
 Sono le aziende che applicano solo la parte estetica di Google: tavolo da ping pong, slide sulla cultura, ma processi copiati male e stipendi non competitivi. Spesso usano il **full remote tossico**: dicono "lavoriamo per obiettivi", ma intendono che devi essere reperibile 24/7 e che ogni sforamento è colpa della tua cattiva gestione.
 
-> ### Tip #15 – Il test del full remote
-> Chiedi tre cose:
-> 1. «Quali sono esattamente gli obiettivi dei primi tre mesi?» (se sono vaghi, scappa).
-> 2. «Come misurate il raggiungimento?».
-> 3. «Qual è l’orario in cui di solito ci si sincronizza?» (se dicono "quando vuoi" ma le riunioni sono alle 20:00, hai la risposta).
+---
+
+### Tip #15 – Il test del full remote
+Chiedi tre cose:
+1. «Quali sono esattamente gli obiettivi dei primi tre mesi?» (se sono vaghi, scappa).
+2. «Come misurate il raggiungimento?».
+3. «Qual è l’orario in cui di solito ci si sincronizza?» (se dicono "quando vuoi" ma le riunioni sono alle 20:00, hai la risposta).
 
 ---
 
 ### 🤝 L’azienda body rental (Il rifugio del Recruiter Scarso)
 Non costruiscono competenze, le noleggiano. Sei un corpo venduto al triplo di quanto vieni pagato, spesso rimpallato tra ragioni sociali diverse per load balancing dei debiti. Per loro non sei un ingegnere, ma una **resource** (voce di costo).
 
-> **Tip #16 – Il test del body rental**
-> Chiedi: «Qual è il mio career path nei prossimi tre anni?». Se la risposta è generica («dipende dai progetti», «vedremo»), sei in una body rental.
+---
+
+### Tip #16 – Il test del body rental**
+Chiedi: «Qual è il mio career path nei prossimi tre anni?». Se la risposta è generica («dipende dai progetti», «vedremo»), sei in una body rental.
 
 ---
 
@@ -78,7 +82,8 @@ Non costruiscono competenze, le noleggiano. Sei un corpo venduto al triplo di qu
 
 Il dramma accade quando le Feature Factory ti vendono la storia del CapEx ("sei strategico!") ma ti misurano con metriche OpEx (velocità della catena di montaggio e Burndown Chart).
 
-> **Momento Mistico #90:** La differenza tra burnout e soddisfazione non sta nel progetto, ma nel foglio Excel del notaio. Se non hai **equity sostanziosa**, per il sistema sarai sempre e solo un costo operativo.
+### Momento Mistico #6
+La differenza tra burnout e soddisfazione non sta nel progetto, ma nel foglio Excel del notaio. Se non hai **equity sostanziosa**, per il sistema sarai sempre e solo un costo operativo.
 
 ---
 

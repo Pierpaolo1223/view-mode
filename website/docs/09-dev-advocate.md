@@ -20,9 +20,9 @@ Nella realtà del mercato italiano, il dev advocate si trasforma spesso in un **
 
 ---
 
-### Momento mistico #: l'Architect e la lista della spesa
+### Momento mistico #11: Il dev advocate e la lista della spesa
 
-Ricordo un post su un social network che mi è rimasto impresso. Un presunto **Architect** e dev advocate chiedeva pubblicamente: *«Quali use case vale la pena studiare? Da dove parto per progettare una soluzione con questi requisiti?»*.
+Ricordo un post su un social network che mi è rimasto impresso. Un presunto **Dev advocate** chiedeva pubblicamente: *«Quali use case vale la pena studiare? Da dove parto per progettare una soluzione con questi requisiti?»*.
 
 In quel momento capisci la differenza tra chi ha fatto il mestiere e chi parla di chi lo fa. La competenza non è una **lista della spesa** di use case studiati a memoria per sembrare preparati agli eventi. Chi ha le cicatrici sa che ogni problema è diverso e che non esiste una ricetta preimpostata: l'unico modo per imparare è sbagliare, e poi sbagliare ancora.
 

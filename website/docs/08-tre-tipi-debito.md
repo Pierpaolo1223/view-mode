@@ -20,7 +20,7 @@ La verità è che il debito è quello che succede quando qualcuno decide che con
 *   **C'è consapevolezza:** tutti sanno che quel codice è un cantiere aperto e nessuno lo tocca senza conoscere il rischio.
 *   **Non si propaga:** resta circoscritto. È un incendio in un camino: brucia, ma non distrugge la casa.
 
-### Momento mistico #101
+### Momento mistico #8
 Il debito gestibile è come una variabile dichiarata ma non inizializzata: sai che c'è e che dovrai metterci un valore, ma intanto il programma compila. Sei tu ad avere il controllo. Nel debito ingestibile, invece, la variabile esplode in runtime e si porta dietro mezza applicazione.
 
 ### Tip #34 – Il ticket salva-coscienza
@@ -45,7 +45,7 @@ Se devi fare una scelta di compromesso, apri un ticket subito. Se non c'è un ti
 2.  **La sindrome del venerdì pomeriggio:** l'ansia che il sistema muoia proprio quando stai per staccare.
 3.  **L'insonnia della notifica:** lasci il telefono acceso perché sai che prima o poi ti chiameranno.
 
-### Momento mistico #102
+### Momento mistico #9
 Il debito ingestibile non è un problema tecnico, è un problema di **governance**. È l'assenza di qualcuno che dica «stop, adesso ripaghiamo».
 
 ### Tip #35 – Il test del sonno
@@ -67,7 +67,7 @@ Smetti di segnalare i problemi perché tanto non ti ascoltano. Taci, fai e conse
 ### 3. Debito sociale grave: la patologia
 I colleghi si ammalano (gastrite, ansia, depressione). Chi se ne va lo fa in silenzio, senza saluti. L'azienda diventa una prigione dove resti solo perché hai un mutuo e il mercato fuori ti sembra un loop infinito.
 
-### Momento mistico #103
+### Momento mistico #10
 Il debito sociale è il prodotto principale delle aziende che trattano il codice come l'unica cosa che conta. Non capiscono che le persone infelici scrivono codice malato, alimentando un loop infinito (while true) che non si ferma mai.
 
 ---

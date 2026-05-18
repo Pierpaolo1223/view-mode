@@ -84,7 +84,7 @@ Se la manager usa lo stato civile per giustificare le lacune della trasferta, la
 
 Peccato che, aprendo il laptop, il sistema abbia lanciato l’ultimo insulto: l’applicativo non partiva. Non era un bug di logica, era un collasso strutturale: il codice sulla loro macchina era un ammasso di dipendenze rotte. Il debugger non aveva nulla da debuggare perché non c’era nulla che girasse. Mi avevano trascinato fin lì per «fare squadra», ma non sapevano configurare nemmeno un ambiente di sviluppo che superasse la fase di init.
 
-**Momento mistico**  
+### Momento mistico #1  
 Realizzare che la «trasferta di eccellenza» era un loop infinito di nulla. Sacrificare igiene e dignità per fare da spettatore al crash di un software che viveva solo nelle slide di Monarchia.
 
 ---
@@ -101,7 +101,7 @@ Non era un problema di codice, era un problema di processi in background nella t
 
 Ho eseguito un test di vulnerabilità: mi sono alzato per andare in bagno. Lei era lì, con gli occhi incollati su di me, seguendo il mio spostamento con l’intensità di un hacker che segue un pacchetto dati sensibile.
 
-### Momento mistico  
+### Momento mistico #2
 Realizzare che non ero in un ufficio, ma in un terrario. La «manager stalker» usava il potere gerarchico per alimentare la propria ossessione personale.
 
 ---
@@ -118,7 +118,7 @@ Tornare in quella casa sembrava l’ennesimo login fallito, ma c’era una varia
 
 Ho guardato quel ragazzo mentre la tossicità iniziava a filtrargli sottopelle. Con loro, con il sistema, ha scelto la via della sottomissione per necessità. Vederlo restare in silenzio mentre l’azienda mi calpestava, per poi chiedermi a casa «a cosa giochiamo?», era un bug logico insopportabile. Era diventato un processo a due facce: un alleato nel tempo libero, un complice silenzioso durante il lavoro.
 
-### Momento mistico #49  
+### Momento mistico #3  
 Realizzare che la neutralità in un ambiente tossico è una forma di autorizzazione al bullismo. Se il tuo compagno non ha il coraggio di fare un commit di solidarietà, la PlayStation è solo un palliativo per un’esecuzione che sta andando in crash.
 
 ---
@@ -135,7 +135,7 @@ Ero arrivato al punto di rottura logica. Ho fatto l’ingegnere: ho raccolto i l
 
 Il dipartimento HR si è trasformato in una pattuglia di sorveglianza igienica. Mi sbattevano confezioni vuote sotto il naso intimandomi di «andare a posare la roba». Cercavano un pretesto per farmi sentire «fuori posto», usando le briciole per coprire il fatto che avevo demolito la loro architettura software.
 
-**Momento mistico #51**  
+### Momento mistico #4  
 In un’azienda tossica, un dato corretto è più pericoloso di un virus. Il mobbing è il tentativo di fare un delete della tua credibilità professionale partendo dall’attacco alla dignità personale.
 
 ---
@@ -152,7 +152,7 @@ Il sistema ha infine lanciato l’eccezione definitiva: il licenziamento. La mot
 
 Il Sommelier della Fuffa ha sentenziato: «Anastasio, tu vali meno di un junior». Ma il vero bug di sistema mai patchato è arrivato in privato dalla manager stalker. Mi ha guardato e ha sentenziato: «Vedi, Anastasio, la donna è come un’azienda. Bisogna saperla gestire, investire e capire quando fare l’exit. Quindi, per questo licenziamento… non prenderla come una cosa personale».
 
-**Momento mistico #52**  
+### Momento mistico #5  
 Realizzare che la follia gerarchica aveva raggiunto il livello root. Paragonare la dinamica di coppia a un business plan per giustificare un licenziamento ritorsivo è il segnale di un sistema completamente dissociato dalla realtà.
 
 ---
