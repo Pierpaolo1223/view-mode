@@ -9,7 +9,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://pierpaolo1223.github.io',
+  url: 'https://github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   baseUrl: '/view-mode/',
 
@@ -48,13 +48,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/docusaurus-social-card.jpg',
+      // Sostituita la social card di Docusaurus
+      image: 'img/copertina-libro.jpg', 
       navbar: {
         title: 'VIEW MODE',
-        logo: {
-          alt: 'VIEW MODE Logo',
-          src: 'img/logo.svg',
-        },
+        // Il blocco 'logo' è stato rimosso per nascondere l'immagine vicino al titolo
         items: [
           
         ],
@@ -67,7 +65,7 @@ const config = {
             items: [
               {
                 label: 'Repository GitHub',
-                href: 'https://github.com/Pierpaolo1223/view-mode',
+                href: 'https://github.com',
               },
             ],
           },
@@ -76,11 +74,11 @@ const config = {
             items: [
               {
                 label: 'Apri una issue',
-                href: 'https://github.com/Pierpaolo1223/view-mode/issues',
+                href: 'https://github.com/issues',
               },
               {
                 label: 'Licenza MIT',
-                href: 'https://github.com/Pierpaolo1223/view-mode/blob/main/LICENSE',
+                href: 'https://github.com/blob/main/LICENSE',
               },
             ],
           },
