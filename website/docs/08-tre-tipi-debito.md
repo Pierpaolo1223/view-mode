@@ -1,7 +1,7 @@
 # Capitolo 8: I tre tipi di debito
-### Ovvero: quando il codice non è l'unica cosa che si rompe
+## Ovvero: quando il codice non è l'unica cosa che si rompe
 
-## Premessa: cos'è il debito, veramente?
+### Premessa: cos'è il debito, veramente?
 
 Nel mondo dei puri e dei teorici, il debito tecnico è una «scelta consapevole di velocità contro qualità, che verrà ripagata in futuro con un refactoring». Una bella storia.
 
@@ -9,7 +9,7 @@ La verità è che il debito è quello che succede quando qualcuno decide che con
 
 ---
 
-## Debito Tipo 1: Il debito tecnico gestibile
+### Debito Tipo 1: Il debito tecnico gestibile
 *«Quello che scegli, lo misuri, e un giorno ripaghi»*
 
 È il debito **consapevole**. È quando tu, l’ingegnere, accetti una soluzione non perfetta per una deadline reale, ma accendi un faro sopra il problema invece di nasconderlo.
@@ -20,15 +20,15 @@ La verità è che il debito è quello che succede quando qualcuno decide che con
 *   **C'è consapevolezza:** tutti sanno che quel codice è un cantiere aperto e nessuno lo tocca senza conoscere il rischio.
 *   **Non si propaga:** resta circoscritto. È un incendio in un camino: brucia, ma non distrugge la casa.
 
-> **Momento mistico #101**
-> Il debito gestibile è come una variabile dichiarata ma non inizializzata: sai che c'è e che dovrai metterci un valore, ma intanto il programma compila. Sei tu ad avere il controllo. Nel debito ingestibile, invece, la variabile esplode in runtime e si porta dietro mezza applicazione.
+### Momento mistico #101
+Il debito gestibile è come una variabile dichiarata ma non inizializzata: sai che c'è e che dovrai metterci un valore, ma intanto il programma compila. Sei tu ad avere il controllo. Nel debito ingestibile, invece, la variabile esplode in runtime e si porta dietro mezza applicazione.
 
-> **Tip #30 – Il ticket salva-coscienza**
-> Se devi fare una scelta di compromesso, apri un ticket subito. Se non c'è un ticket, quel debito non esiste per il sistema, esiste solo nella tua testa come angoscia. E il silenzio è il primo passo verso il disastro.
+### Tip #34 – Il ticket salva-coscienza
+Se devi fare una scelta di compromesso, apri un ticket subito. Se non c'è un ticket, quel debito non esiste per il sistema, esiste solo nella tua testa come angoscia. E il silenzio è il primo passo verso il disastro.
 
 ---
 
-## Debito Tipo 2: Il debito tecnico ingestibile
+### Debito Tipo 2: Il debito tecnico ingestibile
 *«Quello che ti divora mentre dormi»*
 
 È il debito **inconsapevole**. È un'emorragia silenziosa dove la fretta non è l'eccezione, ma la regola. Il codice cresce come un tumore fino a impedire al sistema di respirare.
@@ -45,15 +45,15 @@ La verità è che il debito è quello che succede quando qualcuno decide che con
 2.  **La sindrome del venerdì pomeriggio:** l'ansia che il sistema muoia proprio quando stai per staccare.
 3.  **L'insonnia della notifica:** lasci il telefono acceso perché sai che prima o poi ti chiameranno.
 
-> **Momento mistico #102**
-> Il debito ingestibile non è un problema tecnico, è un problema di **governance**. È l'assenza di qualcuno che dica «stop, adesso ripaghiamo».
+### Momento mistico #102
+Il debito ingestibile non è un problema tecnico, è un problema di **governance**. È l'assenza di qualcuno che dica «stop, adesso ripaghiamo».
 
-> **Tip #31 – Il test del sonno**
-> Prova a spegnere il telefono per una notte. Se non ce la fai perché hai l'ansia di non essere reperibile, il problema non è il telefono: è il tuo codice, o meglio l'azienda che ti ha convinto che il software valga più del tuo riposo.
+### Tip #35 – Il test del sonno
+Prova a spegnere il telefono per una notte. Se non ce la fai perché hai l'ansia di non essere reperibile, il problema non è il telefono: è il tuo codice, o meglio l'azienda che ti ha convinto che il software valga più del tuo riposo.
 
 ---
 
-## Debito Tipo 3: Il debito sociale
+### Debito Tipo 3: Il debito sociale
 *«Quando il codice non è l'unica cosa che si rompe»*
 
 Il debito sociale è la traduzione umana del debito tecnico. Succede quando la tossicità del sistema inizia a mangiare le persone. Non si ripaga con un refactoring, ma con lacrime e dimissioni.
@@ -67,8 +67,8 @@ Smetti di segnalare i problemi perché tanto non ti ascoltano. Taci, fai e conse
 ### 3. Debito sociale grave: la patologia
 I colleghi si ammalano (gastrite, ansia, depressione). Chi se ne va lo fa in silenzio, senza saluti. L'azienda diventa una prigione dove resti solo perché hai un mutuo e il mercato fuori ti sembra un loop infinito.
 
-> **Momento mistico #103**
-> Il debito sociale è il prodotto principale delle aziende che trattano il codice come l'unica cosa che conta. Non capiscono che le persone infelici scrivono codice malato, alimentando un loop infinito (while true) che non si ferma mai.
+### Momento mistico #103
+Il debito sociale è il prodotto principale delle aziende che trattano il codice come l'unica cosa che conta. Non capiscono che le persone infelici scrivono codice malato, alimentando un loop infinito (while true) che non si ferma mai.
 
 ---
 
@@ -82,7 +82,7 @@ Non si gestisce, si azzera.
 
 ---
 
-## Tip #32 – Il test della dignità
+### Tip #36 – Il test della dignità
 
 Rispondi onestamente (Sì/No):
 1.  La domenica sera hai il magone allo stomaco?

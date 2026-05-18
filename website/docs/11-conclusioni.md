@@ -1,5 +1,5 @@
 # Capitolo 11: Conclusioni
-### La Variabile di Uscita
+## La Variabile di Uscita
 
 Abbiamo camminato insieme attraverso le macerie del mercato IT. Abbiamo visto il **Mausoleo Zombie** con il SUV del capo parcheggiato fuori mentre i PC non si accendevano. Abbiamo subito lo sguardo della **Manager Stalker** e le interrogazioni dell'HR sulla spazzatura. Abbiamo decifrato il codice dei **Sommelier della Fuffa**, dei recruiter che ghostano e degli eventi trasformati in vetrine pubblicitarie.
 
@@ -7,7 +7,7 @@ Ora arriva il momento della decisione. Non è un manuale di self-help, ma un bil
 
 ---
 
-## 1. Cosa abbiamo imparato (Il debug finale)
+### 1. Cosa abbiamo imparato (Il debug finale)
 
 *   **Il sistema non è rotto per caso: è rotto di proposito.** I parassiti esistono perché il sistema li premia. Le Feature Factory e le Body Rental esistono perché qualcuno preferisce il profitto di breve termine alla dignità di lungo periodo. Non è un bug, è una feature progettata per chi non vuole usare l'estintore.
 *   **La dignità non è in "sola lettura".** Ti hanno fatto credere di essere uno spettatore pagato poco per guardare l'incendio. Ti hanno detto che il "no" è permalosità. Ma la dignità è una cosa che ti costruisci da solo difendendo i tuoi confini.
@@ -15,7 +15,7 @@ Ora arriva il momento della decisione. Non è un manuale di self-help, ma un bil
 
 ---
 
-## 2. Le Scelte: In quale partizione vuoi stare?
+### 2. Le Scelte: In quale partizione vuoi stare?
 
 Esistono tre strade per chi vive in questo loop:
 
@@ -25,7 +25,7 @@ Esistono tre strade per chi vive in questo loop:
 
 ---
 
-## 3. L'unica ricetta: Il comando "No"
+### 3. L'unica ricetta: Il comando "No"
 
 Se proprio cerchi una soluzione, eccola: **impara a dire "no"**.
 *   No al manager che vuole il presenzialismo forzato.
@@ -37,17 +37,14 @@ Dire "no" ti costerà — forse la promozione o il posto — ma ti salverà dal 
 
 ---
 
-## 4. L'ultimo tip di Anastasio
-
-> **Tip #777 – I Permessi di Scrittura**
-> Ricordi l'inizio? Benvenuti in VIEW MODE. Siete spettatori pagati (poco) per guardare un incendio senza poter usare l'estintore perché «non è nel job description».
-> 
-> Ecco la verità: **i permessi di scrittura non te li dà nessuno.** Non il manager, non il recruiter, non il titolo sulla busta paga. **Te li prendi.** 
-> Te li prendi quando dici "no" a qualcosa di sbagliato, quando difendi un collega o quando inizi a costruire qualcosa di tuo. I permessi di scrittura sono sempre stati tuoi, te li hanno solo fatto dimenticare.
+### Tip #777 – I Permessi di Scrittura**
+Ricordi l'inizio? Benvenuti in VIEW MODE. Siete spettatori pagati (poco) per guardare un incendio senza poter usare l'estintore perché «non è nel job description».
+Ecco la verità: **i permessi di scrittura non te li dà nessuno.** Non il manager, non il recruiter, non il titolo sulla busta paga. **Te li prendi.** 
+Te li prendi quando dici "no" a qualcosa di sbagliato, quando difendi un collega o quando inizi a costruire qualcosa di tuo. I permessi di scrittura sono sempre stati tuoi, te li hanno solo fatto dimenticare.
 
 ---
 
-## Post Scriptum
+### Post Scriptum
 
 Non so dove tu sia, lettore. Forse in un ufficio open-space con l'aria condizionata rotta o a casa con la notifica di Teams che lampeggia. Ma se sei arrivato fin qui, qualcosa dentro di te si è acceso. Quel qualcosa che dice "basta".
 

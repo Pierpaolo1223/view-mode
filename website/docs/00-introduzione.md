@@ -1,9 +1,3 @@
----
-slug: introduzione
-sidebar_position: 1
-sidebar_label: Introduzione
----
-
 # Introduzione
 
 ## Il manifesto di Anastasio: perché la dignità non è in modalità “sola lettura”

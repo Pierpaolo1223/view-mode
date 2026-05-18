@@ -1,7 +1,7 @@
 # Capitolo 9: I dev advocate
-### Ovvero: quando la divulgazione diventa una recita
+## Ovvero: quando la divulgazione diventa una recita
 
-## Premessa: cosa dovrebbe essere
+### Premessa: cosa dovrebbe essere
 
 Il **dev advocate**, in teoria, è la figura che fa da ponte tra chi scrive codice e chi vende sogni. Dovrebbe essere un professionista con le **"mani sporche di terminale"**, che ha affrontato il core dump alle tre di notte e ha imparato dai propri errori per poi decidere di raccontarli alla comunità.
 
@@ -9,7 +9,7 @@ In breve, dovrebbe essere un ingegnere che ha smesso di scrivere codice ogni gio
 
 ---
 
-## La pratica italiana: l'attore col copione
+### La pratica italiana: l'attore col copione
 
 Nella realtà del mercato italiano, il dev advocate si trasforma spesso in un **attore**. Qualcuno che parla di tecnologie che non ha mai applicato in produzione, usando la faccia di chi vende auto usate e studiando le slide la notte prima dell'evento.
 
@@ -20,7 +20,7 @@ Nella realtà del mercato italiano, il dev advocate si trasforma spesso in un **
 
 ---
 
-## Il momento mistico: l'Architect e la lista della spesa
+### Momento mistico #: l'Architect e la lista della spesa
 
 Ricordo un post su un social network che mi è rimasto impresso. Un presunto **Architect** e dev advocate chiedeva pubblicamente: *«Quali use case vale la pena studiare? Da dove parto per progettare una soluzione con questi requisiti?»*.
 
@@ -28,7 +28,7 @@ In quel momento capisci la differenza tra chi ha fatto il mestiere e chi parla d
 
 ---
 
-## Il paradosso del dev advocate italiano
+### Il paradosso del dev advocate italiano
 
 In Italia vige un paradosso: più una figura fa divulgazione, meno esperienza reale sembra avere. Diventa un modo per **sembrare competenti** senza mai aver gestito una transazione distribuita o aver ripristinato un cluster andato giù di notte.
 
@@ -36,7 +36,7 @@ Il pubblico ascolta perché il divulgatore parla bene e ha il titolo giusto, ma 
 
 ---
 
-## Come riconoscere un dev advocate vero
+### Come riconoscere un dev advocate vero
 
 Un vero professionista della divulgazione si distingue per alcuni tratti fondamentali:
 1.  **Racconta i fallimenti:** non solo i successi magici, ma i tre mesi di approccio sbagliato prima di trovare la soluzione.
@@ -47,11 +47,10 @@ Un vero professionista della divulgazione si distingue per alcuni tratti fondame
 
 ---
 
-## Tip #63 – Il test del dev advocate
+### Tip #37 – Il test del dev advocate
 
-> Fai una domanda secca: **«Qual è stato il tuo errore più costoso?»**.
-> 
-> *   **Se racconta un errore vero** con dettagli e lezioni apprese, hai davanti un ingegnere.
-> *   **Se risponde con banalità** o dice di non aver mai commesso errori costosi, hai davanti un attore. Chi ha costruito davvero sistemi complessi ha almeno un fallimento che lo fa ancora rabbrividire.
+Fai una domanda secca: **«Qual è stato il tuo errore più costoso?»**. 
+**Se racconta un errore vero** con dettagli e lezioni apprese, hai davanti un ingegnere.
+**Se risponde con banalità** o dice di non aver mai commesso errori costosi, hai davanti un attore. Chi ha costruito davvero sistemi complessi ha almeno un fallimento che lo fa ancora rabbrividire.
 
 **Ricorda:** Non odio i dev advocate, ma quelli che fingono di aver fatto il mestiere. Ti fanno sentire inadeguato perché non hai letto abbastanza, quando il tuo unico "problema" è che non hai ancora sbagliato abbastanza. La divulgazione vera non cancella il dolore del debug: lo usa per insegnare.

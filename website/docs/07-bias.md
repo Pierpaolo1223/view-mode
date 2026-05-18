@@ -1,7 +1,7 @@
 # Capitolo 7: I bias
-### Ovvero: perché il sistema si autoalimenta e tu non te ne accorgi
+## Ovvero: perché il sistema si autoalimenta e tu non te ne accorgi
 
-## Premessa: cosa sono i bias, nel nostro mestiere
+### Premessa: cosa sono i bias, nel nostro mestiere
 
 Nel mondo del software, «bias» è una parola che usiamo poco. La usano gli psicologi, i data scientist o chi si occupa di modelli di intelligenza artificiale. Noi ingegneri la usiamo raramente per parlare di noi stessi. Eppure dovremmo.
 
@@ -11,7 +11,7 @@ Non è «colpa tua». È il modo in cui funziona il cervello umano. Questo capit
 
 ---
 
-## Bias #1: L’asimmetria informativa (Loro sanno cose che tu non sai)
+### Bias #1: L’asimmetria informativa (Loro sanno cose che tu non sai)
 
 In economia, l'asimmetria informativa si verifica quando una parte ha più informazioni dell'altra e le usa a proprio vantaggio. Nel nostro mercato, questa asimmetria è strutturale:
 *   Il recruiter sa quanto è disposto a pagarti davvero; tu no.
@@ -27,7 +27,7 @@ In economia, l'asimmetria informativa si verifica quando una parte ha più infor
 
 ---
 
-## Bias #2: L’ancoraggio (La prima cifra vince)
+### Bias #2: L’ancoraggio (La prima cifra vince)
 
 L'ancoraggio è la tendenza a fare troppo affidamento sulla prima informazione ricevuta (l'ancora) per prendere decisioni.
 
@@ -39,7 +39,7 @@ L'ancoraggio è la tendenza a fare troppo affidamento sulla prima informazione r
 
 ---
 
-## Bias #3: L’autorità (Chi ha il titolo ha ragione)
+### Bias #3: L’autorità (Chi ha il titolo ha ragione)
 
 Attribuiamo maggiore credibilità a chi ha un titolo o una posizione, anche senza prove reali della sua competenza.
 
@@ -52,7 +52,7 @@ Attribuiamo maggiore credibilità a chi ha un titolo o una posizione, anche senz
 
 ---
 
-## Bias #4: La conferma (Cerchi solo quello che già pensi)
+### Bias #4: La conferma (Cerchi solo quello che già pensi)
 
 La tendenza a ignorare le informazioni che contraddicono le nostre convinzioni.
 
@@ -65,7 +65,7 @@ La tendenza a ignorare le informazioni che contraddicono le nostre convinzioni.
 
 ---
 
-## Bias #5: L’ottimismo irrealistico (A me non succede)
+### Bias #5: L’ottimismo irrealistico (A me non succede)
 
 La tendenza a credere di essere meno a rischio degli altri di incorrere in eventi negativi.
 
@@ -78,7 +78,7 @@ La tendenza a credere di essere meno a rischio degli altri di incorrere in event
 
 ---
 
-## Bias #6: Il costo irrecuperabile (Ci sono già dentro, ormai)
+### Bias #6: Il costo irrecuperabile (Ci sono già dentro, ormai)
 
 La tendenza a continuare un'attività solo perché si è già investito tempo o energia, anche quando è razionale smettere.
 
@@ -91,7 +91,7 @@ La tendenza a continuare un'attività solo perché si è già investito tempo o 
 
 ---
 
-## Bias #7: L’effetto alone (Se una cosa è buona, tutto è buono)
+### Bias #7: L’effetto alone (Se una cosa è buona, tutto è buono)
 
 Estendere un giudizio positivo su una singola caratteristica a tutto il resto.
 
@@ -104,7 +104,7 @@ Estendere un giudizio positivo su una singola caratteristica a tutto il resto.
 
 ---
 
-## Tip #X – Il breakpoint dei bias
+### Tip #33 – Il breakpoint dei bias
 
 Prima di ogni decisione importante (firmare un contratto, accettare una trasferta, restare in un ufficio), metti un **breakpoint** e fatti queste domande:
 1.  **Asimmetria:** Cosa sanno loro che io non so?

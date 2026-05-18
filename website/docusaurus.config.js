@@ -35,7 +35,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',  // Imposta i documenti come home del sito
-          editUrl: 'https://github.com',
+          editUrl: 'https://github.com/Pierpaolo1223/view-mode/blob/main/website/',
         },
         blog: false, // Disabilita il blog per concentrarsi sul libro
         theme: {
@@ -65,7 +65,7 @@ const config = {
             items: [
               {
                 label: 'Repository GitHub',
-                href: 'https://github.com',
+                href: 'https://github.com/Pierpaolo1223/view-mode',
               },
             ],
           },
@@ -74,11 +74,11 @@ const config = {
             items: [
               {
                 label: 'Apri una issue',
-                href: 'https://github.com/issues',
+                href: 'https://github.com/Pierpaolo1223/view-mode/issues',
               },
               {
                 label: 'Licenza MIT',
-                href: 'https://github.com/blob/main/LICENSE',
+                href: 'https://github.com/Pierpaolo1223/view-mode/blob/main/LICENSE',
               },
             ],
           },

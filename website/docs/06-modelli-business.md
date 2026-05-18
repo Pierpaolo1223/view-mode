@@ -1,11 +1,11 @@
 # Capitolo 6: I modelli di business
-### Ovvero: come vieni venduto senza saperlo
+## Ovvero: come vieni venduto senza saperlo
 
 Avete appena letto undici colloqui. Undici modi di essere trattati come merce. Ora entriamo nel dettaglio di come quella merce viene confezionata, venduta e rivenduta. Capire il modello di business dell’azienda per cui lavori è il primo passo per smettere di essere solo un ingranaggio.
 
 ---
 
-## 1. Fixed price (Prezzo chiuso)
+### 1. Fixed price (Prezzo chiuso)
 
 Qui l’azienda vende al cliente un progetto a prezzo bloccato: «Ti faccio questa piattaforma per X euro».
 *   **La trappola:** se il progetto è stimato male (e accade quasi sempre, perché la stima la fa chi non scrive codice), il costo dello sforamento lo paghi tu.
@@ -13,7 +13,7 @@ Qui l’azienda vende al cliente un progetto a prezzo bloccato: «Ti faccio ques
 
 ---
 
-## 2. Body rental (Noleggio corpi)
+### 2. Body rental (Noleggio corpi)
 
 Non c’è un prodotto, non c’è un obiettivo reale. C’è solo un contratto tra azienda A e azienda B: «Ti forniamo un corpo con competenze X, tu ci paghi Y euro all'ora».
 *   **Il prodotto sei tu:** vieni spostato da un cliente all’altro come un item di magazzino.
@@ -21,7 +21,7 @@ Non c’è un prodotto, non c’è un obiettivo reale. C’è solo un contratto 
 
 ---
 
-## 3. Staff augmentation
+### 3. Staff augmentation
 
 È il nome "figo" del *body rental* usato dai recruiter per sembrare strategici.
 *   **La differenza estetica:** hai il badge del cliente, la sua mail e partecipi alle sue riunioni.
@@ -29,7 +29,7 @@ Non c’è un prodotto, non c’è un obiettivo reale. C’è solo un contratto 
 
 ---
 
-## 4. Finders fee / RaaS (Il modello del recruiter)
+### 4. Finders fee / RaaS (Il modello del recruiter)
 
 Qui l'azienda paga al recruiter una percentuale sulla tua RAL (di solito tra il 15% e il 25%) il giorno in cui firmi.
 *   **L'incentivo sbagliato:** il recruiter guadagna se firmi, non se resterai a lungo o se sarai felice. Anzi, se te ne vai dopo pochi mesi, lui guadagna un'altra fee rifacendo la selezione.
@@ -48,8 +48,8 @@ Qui l'azienda paga al recruiter una percentuale sulla tua RAL (di solito tra il 
 
 * L'ultima variante (Personal brand etico) può manifestarsi anche indipendentemente da Finders fee o RaaS, ad esempio in coach o mentori autonomi. La includiamo qui perché spesso chi pratica il doppio binario o il mentoring come leva poi si reinventa come 'recruiter umano' per continuare a spremere gli stessi candidati.
 
-> **Tip #62 – Il test del mentoring ritorsivo**
-> Un vero mentore ti aiuta a non cadere. Se il recruiter ti piazza in un posto tossico e poi ti dice: «Non hai retto perché non eri pronto, paga altro mentoring con me per adattarti», scappa. È un parassita che monetizza la tua fragilità.
+### Tip #32 – Il test del mentoring ritorsivo**
+Un vero mentore ti aiuta a non cadere. Se il recruiter ti piazza in un posto tossico e poi ti dice: «Non hai retto perché non eri pronto, paga altro mentoring con me per adattarti», scappa. È un parassita che monetizza la tua fragilità.
 
 ---
 
@@ -62,7 +62,7 @@ Non è un modello di vendita, ma di gestione interna: sfornare feature senza sen
 
 ---
 
-## 6. Product company (Quella vera)
+### 6. Product company (Quella vera)
 
 Rarissima. Qui si vende un prodotto, non il tuo tempo.
 *   **L'ingegnere come investimento:** il tuo codice oggi varrà dieci volte di più tra tre anni. Investire su di te non è un costo (OpEx), ma una strategia di crescita (CapEx).
@@ -78,10 +78,11 @@ Il modello di business determina come sarai trattato:
 *   In **Body rental**, sei l'inventario: sei un corpo intercambiabile venduto al miglior offerente. Non investiranno mai su di te perché sei una «resource» da consumare e sostituire.
 *   In **Feature factory**, sei un ingranaggio: conta la quantità di feature prodotte, non il loro senso. Il tuo cervello è un accessorio opzionale per una roadmap decisa dal marketing o dal CEO.
 *   Nel **Finders fee**, il modello di business appartiene all'agenzia: incassano una percentuale sulla tua RAL (solitamente tra il 15% e il 25%) il giorno della firma e poi spariscono. Il loro unico incentivo è la frequenza dei piazzamenti, non la qualità del tuo benessere futuro. Se finisci in un «Mausoleo Zombie», loro hanno già fatturato e sono passati al prossimo candidato.
-*   Nel **RaaS (Recruiting as a Service)**, sei un «ticket» in un abbonamento mensile: l'agenzia deve riempire le caselle per giustificare il canone pagato dal cliente. Sei considerato la benzina di una macchina che deve girare sempre. Se ti dimetti perché l'ambiente è tossico, diventi solo un nuovo ticket da riaprire per continuare a fatturare il servizio.
+*   Nel **RaaS (Recruiting as a Service)**, sei un «ticket» in un abbonamento mensile: l'agenzia deve riempire le caselle per giustificare il canone pagato dal cliente. Sei considerato la benzina di una macchina che deve girare sempre. 
+Se ti dimetti perché l'ambiente è tossico, diventi solo un nuovo ticket da riaprire per continuare a fatturare il servizio.
+
+### Momento mistico #73
+Capire il modello di business è capire il tuo ruolo nel sistema. Se sai come l’azienda guadagna da te, sai anche cosa può permetterti di diventare. E se quello che possono permetterti di diventare non è quello che vuoi essere, hai già la risposta.
+
 ```
-
 Questa parte completa l'analisi dei modelli di business, evidenziando come l'incentivo del sistema sia spesso tarato sulla **frequenza dei piazzamenti** piuttosto che sulla **qualità del match** professionale.
-
->  **Momento mistico #73**
-> Capire il modello di business è capire il tuo ruolo nel sistema. Se sai come l’azienda guadagna da te, sai anche cosa può permetterti di diventare. E se quello che possono permetterti di diventare non è quello che vuoi essere, hai già la risposta.
