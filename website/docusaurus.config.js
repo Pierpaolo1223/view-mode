@@ -80,7 +80,7 @@ const config = {
               },
               {
                 label: 'Licenza MIT',
-                href: 'https://github.com/blob/main/LICENSE',
+                href: 'https://github.com/Pierpaolo1223/view-mode/blob/main/LICENSE',
               },
             ],
           },
