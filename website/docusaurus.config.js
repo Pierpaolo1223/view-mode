@@ -63,15 +63,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Il libro',
+            title: 'VIEW MODE',
             items: [
               {
-                label: 'Leggi online',
-                to: '/',
-              },
-              {
                 label: 'Repository GitHub',
-                href: 'https://github.com',
+                href: 'https://github.com/Pierpaolo1223/view-mode',
               },
             ],
           },
