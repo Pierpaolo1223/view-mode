@@ -62,11 +62,6 @@ const config = {
             position: 'left',
             label: 'Libro',
           },
-          {
-            href: 'https://github.com',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -90,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Apri una issue',
-                href: 'https://github.com/issues',
+                href: 'https://github.com/Pierpaolo1223/view-mode/issues',
               },
               {
                 label: 'Licenza MIT',
