@@ -1,6 +1,6 @@
 # Capitolo 3: Il survival horror (e l’eccellenza comprata su Monarchia)
 
-### L’algoritmo dello sbarco (Il tassista abusivo)
+## L’algoritmo dello sbarco (Il tassista abusivo)
 
 Il viaggio verso l’Eccellenza è iniziato con cinque ore di aereo, un tempo infinito passato a ripassare mentalmente le architetture dei domini e a immaginare uffici splendenti degni delle pagine di Monarchia. Atterro stordito, con le orecchie ancora tappate dalla pressione e la schiena che reclama pietà.
 
@@ -8,7 +8,7 @@ L’impatto con la realtà è stato un segnale di errore 500 sparato in faccia a
 
 Ma il vero colpo di genio è stato un altro: anche il tassista abusivo era stato pagato dall’azienda. Hanno deliberatamente scelto di ignorare i canali legali, i taxi ufficiali o un semplice NCC, per affidare la «risorsa strategica» (io) a un tizio senza licenza che mi fissava come se fossi un carico di sigarette di contrabbando. È iniziato così un estenuante braccio di ferro da marciapiede per caricare i bagagli, orchestrato da un’azienda che nel frattempo spendeva migliaia di euro per farsi chiamare «Leader del Mercato» su Monarchia dove paghi e vieni inserito.
 
-### L’algoritmo della disidratazione (La prima notte)
+## L’algoritmo della disidratazione (La prima notte)
 
 Dopo essere stato scortato a destinazione come un latitante, arrivo finalmente alla sistemazione che definire «casa» era un insulto all’edilizia civile. Entro nell’appartamento, trascinando le mie ossa dopo il volo. La prima cosa che faccio, per puro istinto biologico di sopravvivenza, è aprire il rubinetto. Nulla. Un sibilo secco, metallico, quasi ironico. Niente acqua.
 
@@ -18,7 +18,7 @@ Fortunatamente, conosco i miei polli e avevo previsto il crash del sistema: nell
 
 ---
 
-**Tip #3 – Il kit di sopravvivenza autonomo**  
+### Tip #3 – Il kit di sopravvivenza autonomo  
 Se l’azienda ti spedisce in trasferta, non aspettarti che si occupi del tuo sostentamento biologico. Se non vuoi morire di fame in una casa senza acqua, portati la Nutella da casa: sarà l’unico database affidabile a cui potrai attingere.  
 **Ricorda:** se pagano l’abusivo per venirti a prendere, probabilmente considerano anche il tuo stomaco come un’entità esterna non rimborsabile.
 
@@ -30,13 +30,13 @@ Ho provato a lanciare una segnalazione ai referenti per far presente che un esse
 
 ---
 
-**Tip #3.2 – La gerarchia dei bisogni tech**  
+### Tip #4 – La gerarchia dei bisogni tech  
 Se in trasferta devi lottare più per un bicchiere d’acqua che per una riga di codice, la tua scala di Maslow è stata ufficialmente hackerata.  
 **Ricorda:** per l’azienda, l’idratazione è un optional a carico della natura. Se non puoi lavarti, il tuo unico valore aggiunto per l’ufficio domani sarà un ecosistema batterico talmente evoluto da poter scrivere codice al posto tuo.
 
 ---
 
-### Il debug della strada
+## Il debug della strada
 
 Risolta la questione idraulica, è iniziata la seconda fase del calvario: la connettività. In un appartamento destinato a un ingegnere, la password del Wi-Fi era più nascosta di una chiave crittografica a 256 bit in un database corrotto. Ho passato il resto della giornata a ribaltare mobili e ispezionare il retro di router impolverati.
 
@@ -44,13 +44,13 @@ Ma il vero bug doveva ancora arrivare. L’azienda mi aveva fornito una sola spe
 
 ---
 
-**Tip #3.3 – La stringa vuota**  
+### Tip #5 – La stringa vuota 
 Se l’azienda ti dà l’indirizzo ma «dimentica» di spiegarti come arrivarci, non è minimalismo: è menefreghismo strutturale. Ti stanno dicendo che la tua fatica fisica per raggiungere la scrivania ha un valore contabile pari a zero.  
 **Ricorda:** se l’indirizzo è l’unica specifica che ti passano, la tua risposta dovrebbe essere un 404 Not Found finché non vedi un voucher per il trasporto.
 
 ---
 
-### La maratona dei 3 kg
+## La maratona dei 3 kg
 
 La sveglia è suonata alle 7:00 con la crudeltà di un cronjob impostato per farti del male. Mi sono alzato con la sensazione di avere il kernel in panico. Dopo aver fatto colazione, sono andato a comprare una grossa bottiglia d’acqua dal cinese sotto casa mia, giusto per non restare a secco.
 
@@ -60,13 +60,13 @@ Ogni passo era un insulto alla pubblicità su Monarchia. Mentre il boss parlava 
 
 ---
 
-**Tip #3.4 – Il test del calore**  
+### Tip #6 – Il test del calore
 Se l’azienda ti dà l’indirizzo ma ti nega il trasporto, sappi che la tua fatica è il loro risparmio.  
 **Ricorda:** tre chili di laptop sulla spalla per quaranta minuti sotto il sole sono un leak di dignità. Se arrivi in ufficio e la tua maglietta è più trasparente del loro bilancio, hai superato il primo livello del survival horror.
 
 ---
 
-### L’inquisizione sentimentale (Il debug della manager)
+## L’inquisizione sentimentale (Il debug della manager)
 
 Varcata la soglia dell’ufficio dell’Eccellenza, l’accoglienza non è stata un bicchiere d’acqua, ma un’interrogazione sul mio database privato. La manager si è avvicinata e ha sparato la prima query invasiva: «Ma tu, Anastasio, sei fidanzato?». Prima ancora che potessi rispondere, è arrivata la sua auto-diagnosi: «Secondo me sei single. Altrimenti non saresti mai venuto fin qui a fare questa vita».
 
@@ -74,13 +74,13 @@ In quella frase c’era tutto il cinismo di chi usa la tua presunta solitudine c
 
 ---
 
-**Tip #4 – Lo stalking come benefit**  
+### Tip #7 – Lo stalking come benefit  
 Se la manager usa lo stato civile per giustificare le lacune della trasferta, la tua vita privata è diventata una variabile del loro bilancio.  
 **Ricorda:** se ti danno del «permaloso» è perché l’unica risorsa accettata è il martire silenzioso. Tra il sudore e le notti a caccia di Wi-Fi, l’unica relazione stabile che ti permetteranno è quella col debugger.
 
 ---
 
-### Il debugger fantasma (Exception: Application Not Found)
+## Il debugger fantasma (Exception: Application Not Found)
 
 Peccato che, aprendo il laptop, il sistema abbia lanciato l’ultimo insulto: l’applicativo non partiva. Non era un bug di logica, era un collasso strutturale: il codice sulla loro macchina era un ammasso di dipendenze rotte. Il debugger non aveva nulla da debuggare perché non c’era nulla che girasse. Mi avevano trascinato fin lì per «fare squadra», ma non sapevano configurare nemmeno un ambiente di sviluppo che superasse la fase di init.
 
@@ -89,47 +89,47 @@ Realizzare che la «trasferta di eccellenza» era un loop infinito di nulla. Sac
 
 ---
 
-**Tip #4.3 – Il boot fallito**  
+### Tip #8 – Il boot fallito  
 Se l’azienda ti interroga sulla vita privata ma non sa far partire l’applicativo, scappa. Sei in una recita parrocchiale dove l’unica cosa che «gira» è il fumo negli occhi dei clienti.  
 **Ricorda:** se il debugger non parte, è il sistema che ti sta implorando di fare un hard reset della tua carriera.
 
 ---
 
-### Lo stalking a sola lettura (Il database violato)
+## Lo stalking a sola lettura (Il database violato)
 
 Non era un problema di codice, era un problema di processi in background nella testa della manager. È iniziato il secondo round: prima l’inquisizione geografica sul mio paese d’origine, poi il vero data leak. Ha iniziato a lanciare riferimenti precisi a argomenti che avevo trattato solo sui miei social privati. Mi stava tracciando senza lasciar tracce dirette, un monitoraggio silenzioso che faceva accendere tutti i firewall della mia sanità mentale.
 
 Ho eseguito un test di vulnerabilità: mi sono alzato per andare in bagno. Lei era lì, con gli occhi incollati su di me, seguendo il mio spostamento con l’intensità di un hacker che segue un pacchetto dati sensibile.
 
-**Momento mistico**  
+### Momento mistico  
 Realizzare che non ero in un ufficio, ma in un terrario. La «manager stalker» usava il potere gerarchico per alimentare la propria ossessione personale.
 
 ---
 
-**Tip #5 – Il firewall sociale e il desiderio tossico**  
+### Tip #9 – Il firewall sociale e il desiderio tossico 
 Se la tua manager spia i tuoi post privati e ti guarda con la fame di chi ha deciso che sei il suo prossimo commit sentimentale — disconnetti tutto.  
 **Ricorda:** per lei sarai sempre e solo un’istanza da possedere. Se vedi quello sguardo, il tuo unico task prioritario è la fuga.
 
 ---
 
-### Il paradosso del coinquilino (Neutralità nel disagio)
+## Il paradosso del coinquilino (Neutralità nel disagio)
 
 Tornare in quella casa sembrava l’ennesimo login fallito, ma c’era una variabile nuova: un coinquilino. Uno ancora «sano», con il kernel non compromesso. In un impeto di ottimismo, ho comprato una PlayStation per creare una zona demilitarizzata. Per un po’ ha funzionato, ma l’ambiente forza l’adattamento.
 
 Ho guardato quel ragazzo mentre la tossicità iniziava a filtrargli sottopelle. Con loro, con il sistema, ha scelto la via della sottomissione per necessità. Vederlo restare in silenzio mentre l’azienda mi calpestava, per poi chiedermi a casa «a cosa giochiamo?», era un bug logico insopportabile. Era diventato un processo a due facce: un alleato nel tempo libero, un complice silenzioso durante il lavoro.
 
-**Momento mistico #49**  
+### Momento mistico #49  
 Realizzare che la neutralità in un ambiente tossico è una forma di autorizzazione al bullismo. Se il tuo compagno non ha il coraggio di fare un commit di solidarietà, la PlayStation è solo un palliativo per un’esecuzione che sta andando in crash.
 
 ---
 
-**Tip #5.1 – L’amico a compartimenti stagni**  
+### Tip #10 – L’amico a compartimenti stagni  
 Se il tuo coinquilino è un amico a casa ma un fantasma muto in ufficio mentre ti massacrano, è un utente con permessi limitati.  
 **Ricorda:** se lui si adatta per necessità, tu preparati a disconnetterti per dignità.
 
 ---
 
-### L’eresia dei dati (Il mobbing delle confezioni)
+## L’eresia dei dati (Il mobbing delle confezioni)
 
 Ero arrivato al punto di rottura logica. Ho fatto l’ingegnere: ho raccolto i log, analizzato i flussi e presentato un report granulare sui problemi architettonici. La reazione del CEO è stata viscerale: la verità è un’offesa di lesa maestà. L’esecuzione del contratto è passata in modalità mobbing strategico.
 
@@ -140,13 +140,13 @@ In un’azienda tossica, un dato corretto è più pericoloso di un virus. Il mob
 
 ---
 
-**Tip #7 – Il debug della spazzatura**  
+### Tip #11 – Il debug della spazzatura  
 Se dopo aver segnalato un errore architettonico l’HR ti fa storie per la plastica fuori posto, smetti di parlare di codice. Ti stanno facendo un refactoring dell’immagine per farti apparire inadeguato.  
 **Ricorda:** se usano la spazzatura per attaccarti, significa che non hanno argomenti tecnici per smentirti.
 
 ---
 
-### Il crash log finale (La donna è come un’azienda)
+## Il crash log finale (La donna è come un’azienda)
 
 Il sistema ha infine lanciato l’eccezione definitiva: il licenziamento. La motivazione ufficiale, scritta su un database di pura fantasia, era «poca produzione». Detto a chi aveva tentato di resuscitare un applicativo che non partiva, era il colmo del paradosso.
 
@@ -157,6 +157,6 @@ Realizzare che la follia gerarchica aveva raggiunto il livello root. Paragonare 
 
 ---
 
-**Tip #8 – Il verdetto dell’incompetente**  
+### Tip #12 – Il verdetto dell’incompetente  
 Se ti dicono che vali «meno di un junior» dopo che hai distrutto i loro errori architettonici, prendilo come una certificazione d’eccellenza: il tuo sapere li spaventa.  
 **Ricorda:** il licenziamento per «poca produzione» in un’azienda che non sa far partire il software è la tua release note verso la libertà.
