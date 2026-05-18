@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwebsite=globalThis.webpackChunkwebsite||[]).push([[634],{192(e,t,i){i.r(t),i.d(t,{default:()=>n});i(6540);var s=i(6347),u=i(4848);function n(){return(0,u.jsx)(s.rd,{to:"/introduzione"})}}}]);
