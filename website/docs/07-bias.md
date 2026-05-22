@@ -65,7 +65,25 @@ La tendenza a ignorare le informazioni che contraddicono le nostre convinzioni.
 
 ---
 
-### Bias #5: L’ottimismo irrealistico (A me non succede)
+### Bias #5: La conformità (Se lo dice il gruppo, deve essere vero)
+
+La tendenza a modificare le proprie opinioni o comportamenti per allinearli a quelli del gruppo, anche quando il gruppo ha torto. È il motore silenzioso delle riunioni dove tutti annuiscono e nessuno obietta.
+
+**Come si manifesta:**
+- Il Sommelier della Fuffa fa un'affermazione tecnicamente dubbia in un colloquio collettivo. Nessuno reagisce. Tu pensi «forse ho capito male io» e annuisci.
+- Sei in un'azienda tossica, ma nessuno si lamenta ad alta voce. Il silenzio collettivo lo interpreti come approvazione.
+- Le retrospettive "tutti contenti" esistono perché il primo che parla dice «tutto bene» e gli altri si conformano.
+
+**La variante più tossica – il culture fit come clava:**
+Molte aziende hanno imparato che è più facile etichettare qualcuno come «non allineato» che contestare una sua obiezione tecnica. Il *culture fit* diventa così un filtro che premia l'omologazione: si cercano persone che frequentano gli stessi eventi, leggono gli stessi guru, idolatrano gli stessi leader. Chi fa domande scomode o porta competenze verticali viene scartato con la formula magica: «Forse non sei il profilo giusto per la nostra cultura». Non hanno contestato la tua tesi. Hanno usato la conformità per escluderti.
+
+> **Come difendersi:** 
+> **Classico:** Fai il test dei **tre secondi**. Se senti dentro «ma questo non ha senso», hai tre secondi per parlare prima che il conformismo ti zittisca. Basta una frase minima: «A me non convince, approfondiamo?». 
+> **Culture fit:** Se ti dicono «non sei allineato», chiedi: «Quale affermazione specifica che ho fatto non è allineata?». La risposta, spesso, sarà un cambio di argomento. Perché il problema non è cosa hai detto – è che hai parlato. E quella, per un'azienda che usa il culture fit come clava, è l'unica colpa imperdonabile.
+
+---
+
+### Bias #6: L’ottimismo irrealistico (A me non succede)
 
 La tendenza a credere di essere meno a rischio degli altri di incorrere in eventi negativi.
 
@@ -78,7 +96,7 @@ La tendenza a credere di essere meno a rischio degli altri di incorrere in event
 
 ---
 
-### Bias #6: Il costo irrecuperabile (Ci sono già dentro, ormai)
+### Bias #7: Il costo irrecuperabile (Ci sono già dentro, ormai)
 
 La tendenza a continuare un'attività solo perché si è già investito tempo o energia, anche quando è razionale smettere.
 
@@ -91,7 +109,7 @@ La tendenza a continuare un'attività solo perché si è già investito tempo o 
 
 ---
 
-### Bias #7: L’effetto alone (Se una cosa è buona, tutto è buono)
+### Bias #8: L’effetto alone (Se una cosa è buona, tutto è buono)
 
 Estendere un giudizio positivo su una singola caratteristica a tutto il resto.
 
@@ -111,8 +129,9 @@ Prima di ogni decisione importante (firmare un contratto, accettare una trasfert
 2.  **Ancoraggio:** C’è una cifra o una promessa che mi sta tenendo agganciato?
 3.  **Autorità:** Mi sto fidando perché ha un titolo o perché sa di cosa parla?
 4.  **Conferma:** Sto ignorando le red flag perché voglio che questo posto mi piaccia?
-5.  **Ottimismo:** Sto pensando «a me non succede»?
-6.  **Costo irrecuperabile:** Sto restando solo perché ho già investito tempo?
-7.  **Effetto alone:** Una singola cosa buona mi sta facendo accettare tutto il marcio?
+5.  **Conformità:** Sto annuendo solo perché lo fanno tutti? O mi stanno etichettando come "non allineato" per farmi stare zitto?
+6.  **Ottimismo:** Sto pensando «a me non succede»?
+7.  **Costo irrecuperabile:** Sto restando solo perché ho già investito tempo?
+8.  **Effetto alone:** Una singola cosa buona mi sta facendo accettare tutto il marcio?
 
 Non serve rispondere a tutte. Basta fermarsi, respirare e chiedersi: **«Cosa non sto vedendo?»**. La consapevolezza vale più di qualsiasi riga di codice.
