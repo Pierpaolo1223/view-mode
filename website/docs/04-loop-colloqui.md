@@ -1,4 +1,5 @@
-# Capitolo 4: Il loop dei colloqui (ovvero: come il mercato del lavoro IT è diventato un while(true))
+# Capitolo 4: Il loop dei colloqui
+## Ovvero: come il mercato del lavoro IT è diventato un while(true)
 
 Dopo il **crash log finale**, dopo il licenziamento da parte dell’azienda che si credeva Google (ma aveva solo il tavolo da ping pong e l’acqua assente), Anastasio si è ritrovato in una condizione che i tecnici chiamano «stato di grazia forzata».
 
