@@ -37,7 +37,7 @@ Dire "no" ti costerà — forse la promozione o il posto — ma ti salverà dal 
 
 ---
 
-### Tip #777 – I Permessi di Scrittura**
+### Tip #777 – I Permessi di Scrittura
 Ricordi l'inizio? Benvenuti in VIEW MODE. Siete spettatori pagati (poco) per guardare un incendio senza poter usare l'estintore perché «non è nel job description».
 Ecco la verità: **i permessi di scrittura non te li dà nessuno.** Non il manager, non il recruiter, non il titolo sulla busta paga. **Te li prendi.** 
 Te li prendi quando dici "no" a qualcosa di sbagliato, quando difendi un collega o quando inizi a costruire qualcosa di tuo. I permessi di scrittura sono sempre stati tuoi, te li hanno solo fatto dimenticare.
