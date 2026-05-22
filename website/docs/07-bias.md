@@ -77,8 +77,10 @@ La tendenza a modificare le proprie opinioni o comportamenti per allinearli a qu
 **La variante più tossica – il culture fit come clava:**
 Molte aziende hanno imparato che è più facile etichettare qualcuno come «non allineato» che contestare una sua obiezione tecnica. Il *culture fit* diventa così un filtro che premia l'omologazione: si cercano persone che frequentano gli stessi eventi, leggono gli stessi guru, idolatrano gli stessi leader. Chi fa domande scomode o porta competenze verticali viene scartato con la formula magica: «Forse non sei il profilo giusto per la nostra cultura». Non hanno contestato la tua tesi. Hanno usato la conformità per escluderti.
 
-> **Come difendersi:** 
-> **Classico:** Fai il test dei **tre secondi**. Se senti dentro «ma questo non ha senso», hai tre secondi per parlare prima che il conformismo ti zittisca. Basta una frase minima: «A me non convince, approfondiamo?». 
+> **Come difendersi:**  
+> 
+> **Classico:** Fai il test dei **tre secondi**. Se senti dentro «ma questo non ha senso», hai tre secondi per parlare prima che il conformismo ti zittisca. Basta una frase minima: «A me non convince, approfondiamo?».
+> 
 > **Culture fit:** Se ti dicono «non sei allineato», chiedi: «Quale affermazione specifica che ho fatto non è allineata?». La risposta, spesso, sarà un cambio di argomento. Perché il problema non è cosa hai detto – è che hai parlato. E quella, per un'azienda che usa il culture fit come clava, è l'unica colpa imperdonabile.
 
 ---
